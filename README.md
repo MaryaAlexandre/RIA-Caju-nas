@@ -4,7 +4,7 @@ Este é o repositório oficial do site das **Cajuínas**, desenvolvido em Angula
 
 ## 💡 Sobre o Projeto
 
-**Cajuínas** é um projeto que visa incentivar e fortalecer a participação de mulheres na tecnologia, por meio de mentorias, oficinas, eventos e ações de protagonismo. Este site serve como um **meio de divulgação e memória digital** dessas atividades.
+**Cajuínas** é um projeto que visa incentivar e fortalecer a participação de mulheres na tecnologia, por meio de mentorias, oficinas, eventos e ações de protagonismo. Este site serve como um **meio de divulgação e memória digital** dessas atividades e eventos.
 
 ## 🛠️ Tecnologias Utilizadas
 
